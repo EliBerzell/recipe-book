@@ -12,4 +12,5 @@
 
 ## Instructions
 
-TODO: these are missing
+- Finely chop the onions and fry in a pan with olive oil
+- Add diced pancetta and fry for 3 minutes
